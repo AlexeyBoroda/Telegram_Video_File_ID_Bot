@@ -67,8 +67,6 @@ python get_video_file_id.py
 ## Лицензия
 
 Этот проект распространяется под лицензией MIT.
-```
 
 ## Автор
 https://github.com/AlexeyBoroda
-```
